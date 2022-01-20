@@ -80,7 +80,7 @@
 
 ### Git
 
-[Git Tutorial Point](https://www.tutorialspoint.com/git/index.htm)\
+[Git Tutorial Point](https://www.tutorialspoint.com/git/index.htm)
 
 ### Other
 
@@ -89,7 +89,7 @@
 [Junior Programmer](https://learn.unity.com/pathway/junior-programmer)\
 [Unity Essentials](https://learn.unity.com/pathways)
 
-### Tutorial Websites
+### Websites
 
 [A Cloud Guru](https://acloudguru.com)\
 [Cloud Academy](https://cloudacademy.com)\
