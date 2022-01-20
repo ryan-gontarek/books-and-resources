@@ -2,8 +2,8 @@
 
 ### Machine Learning
 
-[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning#courses)
-[Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning#courses)\
+[Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)\
 [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
 [Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187)
 [AWS Certified Machine Learning - Specialty](https://learn.acloud.guru/course/aws-certified-machine-learning-specialty/dashboard)
