@@ -49,7 +49,7 @@
 [Google Cloud Fundamentals for AWS Professionals](https://www.coursera.org/learn/gcp-fundamentals-aws)\
 [Reliable Google Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process)
 
-#### Azure
+#### Microsoft Azure
 
 [AZ-303 Exam Preparation: Technologies for Microsoft Azure Architects](https://cloudacademy.com/learning-paths/az-303-exam-preparation-technologies-for-microsoft-azure-architects-1720/)\
 [AZ-303 Azure Architecture Technologies](https://www.udemy.com/course/70534-azure/learn/lecture/17313412?start=0#content)
