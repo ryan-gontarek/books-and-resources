@@ -1,23 +1,5 @@
 # Books and Resources
 
-### Machine Learning
-
-[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning#courses)\
-[Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)\
-[TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)\
-[Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187)\
-[AWS Certified Machine Learning - Specialty](https://learn.acloud.guru/course/aws-certified-machine-learning-specialty/dashboard)\
-[AWS Certified Machine Learning Specialty](https://www.udemy.com/course/aws-machine-learning/learn/lecture/16585964?start=0#content)\
-[Deep Learning with TensorFlow 2 and Keras](https://www.amazon.com/Deep-Learning-TensorFlow-Keras-Regression/dp/1838823417/ref=sr_1_4?crid=QHUGRAXSEV8F&keywords=getting+start+with+amazon+web+services&qid=1642689085&s=books&sprefix=getting+start+with+amazon+web+services%2Cstripbooks%2C66&sr=1-4)\
-[Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)\
-[Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249/ref=dp_ob_title_bk)
-
-### Blogs
-
-[OpenAI Blog](https://openai.com/blog/)\
-[Google AI Blog](https://ai.googleblog.com)\
-[DeepMind Blog](https://deepmind.com/blog)
-
 ### Python
 
 [Introduction to Python Programming](https://www.edx.org/professional-certificate/introduction-to-python-programming?index=product&queryID=6f862d535558268ff0e661c6658e2a52&position=1)\
@@ -53,6 +35,29 @@
 
 [AZ-303 Exam Preparation: Technologies for Microsoft Azure Architects](https://cloudacademy.com/learning-paths/az-303-exam-preparation-technologies-for-microsoft-azure-architects-1720/)\
 [AZ-303 Azure Architecture Technologies](https://www.udemy.com/course/70534-azure/learn/lecture/17313412?start=0#content)
+
+### Blockchain
+
+[Mastering Bitcoin: Programming the Open Blockchain](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388/ref=sr_1_1?crid=1R55WVNK9HJRR&keywords=mastering+bitcoin&qid=1642999024&sprefix=mastering+bitcoin%2Caps%2C145&sr=8-1)
+[Mastering Ethereum: Building Smart Contracts and DApps](https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940/ref=sr_1_1?crid=XECWRIPG66QH&keywords=mastering+ethereum&qid=1642999082&sprefix=mastering+ethe%2Caps%2C111&sr=8-1)
+
+### Machine Learning
+
+[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning#courses)\
+[Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)\
+[TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)\
+[Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187)\
+[AWS Certified Machine Learning - Specialty](https://learn.acloud.guru/course/aws-certified-machine-learning-specialty/dashboard)\
+[AWS Certified Machine Learning Specialty](https://www.udemy.com/course/aws-machine-learning/learn/lecture/16585964?start=0#content)\
+[Deep Learning with TensorFlow 2 and Keras](https://www.amazon.com/Deep-Learning-TensorFlow-Keras-Regression/dp/1838823417/ref=sr_1_4?crid=QHUGRAXSEV8F&keywords=getting+start+with+amazon+web+services&qid=1642689085&s=books&sprefix=getting+start+with+amazon+web+services%2Cstripbooks%2C66&sr=1-4)\
+[Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)\
+[Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249/ref=dp_ob_title_bk)
+
+### Blogs
+
+[OpenAI Blog](https://openai.com/blog/)\
+[Google AI Blog](https://ai.googleblog.com)\
+[DeepMind Blog](https://deepmind.com/blog)
 
 ### R
 
