@@ -9,8 +9,8 @@
 
 ### Cloud
 
-[Study Guide - Terraform Associate Certification](https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification)\
-[HashiCorp Security Automation Certification](https://www.hashicorp.com/certification/vault-associate)
+[Terraform Technical Documents](https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification)\
+[HashiCorp Security Automation](https://www.hashicorp.com/certification/vault-associate)
 
 #### Amazon Web Services
 
