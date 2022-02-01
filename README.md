@@ -38,7 +38,7 @@
 
 ### Blockchain
 
-[Mastering Bitcoin: Programming the Open Blockchain](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388/ref=sr_1_1?crid=1R55WVNK9HJRR&keywords=mastering+bitcoin&qid=1642999024&sprefix=mastering+bitcoin%2Caps%2C145&sr=8-1)
+[Mastering Bitcoin: Programming the Open Blockchain](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388/ref=sr_1_1?crid=1R55WVNK9HJRR&keywords=mastering+bitcoin&qid=1642999024&sprefix=mastering+bitcoin%2Caps%2C145&sr=8-1)\
 [Mastering Ethereum: Building Smart Contracts and DApps](https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940/ref=sr_1_1?crid=XECWRIPG66QH&keywords=mastering+ethereum&qid=1642999082&sprefix=mastering+ethe%2Caps%2C111&sr=8-1)
 
 ### Machine Learning
