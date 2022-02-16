@@ -32,6 +32,7 @@
 
 #### Amazon Web Services
 
+[AWS Certified Advanced Networking Specialty](https://www.udemy.com/course/aws-certified-advanced-networking-specialty-ans)\
 [Ultimate AWS Certified Solutions Architect Professional](https://www.udemy.com/course/aws-solutions-architect-professional/learn/lecture/18376602?start=0#content)\
 [AWS Certified Solutions Architect - Professional](https://learn.acloud.guru/course/aws-certified-solutions-architect-professional/dashboard)\
 [AWS Certified Solutions Architect Professional](https://www.udemy.com/course/draft/1905604/learn/lecture/13033780?start=0#content)\
