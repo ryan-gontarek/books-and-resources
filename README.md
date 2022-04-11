@@ -94,7 +94,7 @@
 [Ionic - Build iOS, Android & Web Apps with Ionic & Angular](https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/learn/lecture/13726172?start=0#content)\
 [Bash Scripting and Shell Programming (Linux Command Line)](https://www.udemy.com/course/bash-scripting/learn/lecture/7340596?start=0#content)\
 [Junior Programmer](https://learn.unity.com/pathway/junior-programmer)\
-[Unity Essentials](https://learn.unity.com/pathways)
+[Unity Essentials](https://learn.unity.com/pathways)\
 [Backstage.io Techincal Docs](https://backstage.io/docs/features/techdocs/techdocs-overview)
 
 ### Websites
