@@ -51,6 +51,7 @@
 [Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187)\
 [AWS Certified Machine Learning - Specialty](https://learn.acloud.guru/course/aws-certified-machine-learning-specialty/dashboard)\
 [AWS Certified Machine Learning Specialty](https://www.udemy.com/course/aws-machine-learning/learn/lecture/16585964?start=0#content)\
+[GCP Machine Learning Professional](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 [Deep Learning with TensorFlow 2 and Keras](https://www.amazon.com/Deep-Learning-TensorFlow-Keras-Regression/dp/1838823417/ref=sr_1_4?crid=QHUGRAXSEV8F&keywords=getting+start+with+amazon+web+services&qid=1642689085&s=books&sprefix=getting+start+with+amazon+web+services%2Cstripbooks%2C66&sr=1-4)\
 [Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)\
 [Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249/ref=dp_ob_title_bk)
