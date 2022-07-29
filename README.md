@@ -14,7 +14,7 @@
 
 #### Amazon Web Services
 
-[AWS EKS/DevOps/Microservices](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/learn/lecture/20333641?start=0#overview)
+[AWS EKS/DevOps/Microservices](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/learn/lecture/20333641?start=0#overview)\
 [AWS Certified Advanced Networking Specialty](https://www.udemy.com/course/aws-certified-advanced-networking-specialty-ans)\
 [Ultimate AWS Certified Solutions Architect Professional](https://www.udemy.com/course/aws-solutions-architect-professional/learn/lecture/18376602?start=0#content)\
 [AWS Certified Solutions Architect - Professional](https://learn.acloud.guru/course/aws-certified-solutions-architect-professional/dashboard)\
