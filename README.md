@@ -56,6 +56,14 @@
 [Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)\
 [Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249/ref=dp_ob_title_bk)
 
+### ChatGPT / LLMs
+
+[OpenAI Documentation](https://platform.openai.com/docs/introduction)\
+[OpenAI Chat Plugins](https://platform.openai.com/docs/plugins/introduction)\
+[Prompt Engineering](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)\
+[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)\
+[LangChain Documentation](https://python.langchain.com/en/latest/index.html)
+
 ### Blogs
 
 [OpenAI Blog](https://openai.com/blog/)\
