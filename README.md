@@ -60,9 +60,12 @@
 
 [OpenAI Documentation](https://platform.openai.com/docs/introduction)\
 [OpenAI Chat Plugins](https://platform.openai.com/docs/plugins/introduction)\
-[Prompt Engineering](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)\
 [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)\
-[LangChain Documentation](https://python.langchain.com/en/latest/index.html)
+[LangChain Documentation](https://python.langchain.com/en/latest/index.html)\
+[Prompt Engineering](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)\
+[Building Applications with ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)\
+[Building Applications with LangChain](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)\
+[Diffusion Models](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)
 
 ### Blogs
 
